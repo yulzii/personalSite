@@ -356,6 +356,7 @@ h1, h2, h3, h4, h5, h6 {
   color: #222222;
 }
 #portrait h2 {
+  position: center;
   color: #6f6f6f;
   margin: 10px 0 0 0;
   font-size: 22px;
@@ -381,6 +382,7 @@ h1, h2, h3, h4, h5, h6 {
     line-height: 36px;
   }
   #portrait h2 {
+    position: left;
     font-size: 18px;
     line-height: 24px;
   }
