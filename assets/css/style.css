@@ -359,23 +359,7 @@ h1, h2, h3, h4, h5, h6 {
   margin: 10px 0 0 0;
   font-size: 22px;
 }
-#portrait .btn-about {
-  font-family: "Raleway", sans-serif;
-  text-transform: uppercase;
-  font-weight: 600;
-  font-size: 12px;
-  letter-spacing: 1px;
-  display: inline-block;
-  padding: 12px 40px;
-  border-radius: 50px;
-  transition: 0.3s;
-  margin-top: 30px;
-  color: #000;
-  background: #F9E773;
-}
-#portrait .btn-about:hover {
-  background: #FFF6B6;
-}
+
 @media (min-width: 1024px) {
   #portrait {
     background-attachment: fixed;
