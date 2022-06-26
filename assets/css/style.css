@@ -350,12 +350,15 @@ h1, h2, h3, h4, h5, h6 {
 }
 #portrait h1 {
   margin: 0;
+  position: center;
+  padding-left: 30px;
   font-size: 48px;
   font-weight: 700;
   line-height: 56px;
   color: #222222;
 }
 #portrait h2 {
+  padding-left: 30px;
   position: center;
   color: #6f6f6f;
   margin: 10px 0 0 0;
@@ -378,6 +381,7 @@ h1, h2, h3, h4, h5, h6 {
     right: 0;
   }
   #portrait h1 {
+    position: left;
     font-size: 28px;
     line-height: 36px;
   }
