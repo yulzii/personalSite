@@ -1098,12 +1098,12 @@ section {
 --------------------------------------------------------------*/
 #footer {
   background: #F3F39D;
-  padding: 50px 0;
+  padding: 10px 0;
   color: #000000;
-  font-size: 15px;
-  text-align: center;
+  font-size: 20px;
+  text-align: left;
 }
 #footer .contacts {
   padding-top: 5px;
-  font-size: 13px;
+  font-size: 17px;
 }
